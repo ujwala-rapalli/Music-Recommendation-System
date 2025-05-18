@@ -1,0 +1,6 @@
+# Streamlit Cloud deployment configuration
+
+# Main entry point for your Streamlit app
+# Change this if your main file is different
+[general]
+main = "src/main.py"

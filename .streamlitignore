@@ -1,0 +1,4 @@
+# Streamlit Cloud ignores files listed here
+*.csv
+*.log
+__pycache__/
